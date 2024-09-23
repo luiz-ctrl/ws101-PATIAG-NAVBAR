@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/css/main.e0eab5a1.chunk.css",
-    "main.js": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/js/main.5d468b87.chunk.js",
-    "main.js.map": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/js/main.5d468b87.chunk.js.map",
-    "runtime~main.js": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/js/runtime~main.38422b26.js",
-    "runtime~main.js.map": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/js/runtime~main.38422b26.js.map",
-    "static/js/2.8851f76e.chunk.js": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/js/2.8851f76e.chunk.js",
-    "static/js/2.8851f76e.chunk.js.map": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/js/2.8851f76e.chunk.js.map",
-    "index.html": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/index.html",
-    "precache-manifest.1039642f1d687e54e429d1d915e129e3.js": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/precache-manifest.1039642f1d687e54e429d1d915e129e3.js",
-    "service-worker.js": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/service-worker.js",
-    "static/css/main.e0eab5a1.chunk.css.map": "/luiz-ctrl/ws101-PATIAG-NAVBAR.git/static/css/main.e0eab5a1.chunk.css.map"
-  }
+    "main.css": "/ws101-PATIAG-NAVBAR/static/css/main.de4b2d55.css",
+    "main.js": "/ws101-PATIAG-NAVBAR/static/js/main.00e2b1be.js",
+    "index.html": "/ws101-PATIAG-NAVBAR/index.html",
+    "main.de4b2d55.css.map": "/ws101-PATIAG-NAVBAR/static/css/main.de4b2d55.css.map",
+    "main.00e2b1be.js.map": "/ws101-PATIAG-NAVBAR/static/js/main.00e2b1be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4b2d55.css",
+    "static/js/main.00e2b1be.js"
+  ]
 }
